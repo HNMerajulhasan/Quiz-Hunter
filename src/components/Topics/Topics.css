@@ -1,0 +1,27 @@
+.cart img {
+    width: 250px;
+    height: 150px;
+    border-radius: 10px;
+    background-color: lightgrey;
+}
+
+.cart {
+    border: 1px solid lightgray;
+    padding-top: 6px;
+    width: 260px;
+    height: 310px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    box-shadow: 5px 5px 20px gray;
+
+
+}
+
+.btn-icon {
+    display: flex;
+}
+
+.bg-color {
+    background: linear-gradient(135deg, rgb(91, 171, 220) 30%, rgb(236, 60, 210));
+}
