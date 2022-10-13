@@ -1,0 +1,23 @@
+.blog {
+    text-align: start;
+}
+
+.blog-h1 {
+    margin: 30px 0;
+    font-size: 60px;
+    font-weight: 700;
+
+}
+
+.span-color {
+    color: rgb(18, 130, 222);
+}
+
+.blog-1,
+.blog-2,
+.blog-3 {
+    border: 1px solid rgb(200, 193, 193);
+    padding: 40px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
