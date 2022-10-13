@@ -1,11 +1,11 @@
 import React from 'react';
-import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom';
-import './Topics.css'
+import Button from 'react-bootstrap/Button';
 
-const Topics = ({ cart }) => {
-    const { name, logo, total, id } = cart;
+const All_Topic = ({ allTopic }) => {
+    const { name, logo, total, id } = allTopic;
     return (
+       <div> 
         <div className='cart'>
             <div>
                 <img src={logo} alt="" />
@@ -19,7 +19,8 @@ const Topics = ({ cart }) => {
 
             </div>
         </div>
+    </div>
     );
 };
 
-export default Topics;
+export default All_Topic;

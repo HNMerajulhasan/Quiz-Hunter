@@ -7,7 +7,7 @@ const Banner = () => {
         <div className='container banner my-5'>
             <div className="row">
                 <div className="col-lg-6 banner-img">
-                    <img src="https://img.freepik.com/free-vector/online-tutorials-concept_52683-37480.jpg?w=996&t=st=1665474726~exp=1665475326~hmac=b881a1835bb3baa651894fb93a5756bea0233600f94cb8774974a1cbb9d37c31" alt="" />
+                    <img src="https://img.freepik.com/free-vector/background-people-television-contest_23-2147595530.jpg?w=740&t=st=1665644518~exp=1665645118~hmac=6d5d5af76188c17f712980c66f036fee2a805a4502aa6676ae9783d569b47a74" alt="" />
                 </div>
                 <div className="col-lg-6 bg-right ">
                     <h1 className=''>
